@@ -39,6 +39,7 @@
 #include <cutils/properties.h>
 
 #include <ctype.h>
+#include <unistd.h>
 
 namespace android {
 
